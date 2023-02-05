@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+venv/
+__temp/
+logs/
+/ToDo_.txt
+/loaders_nosql/mongo/data/
